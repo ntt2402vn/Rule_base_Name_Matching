@@ -1,0 +1,5 @@
+- **Machine_Learning_Approach.ipynb**: Jupyter notebook implementing the machine learning models (Random Forest and XGBoost) used for comparison in the study.
+- **Phonetic_Based_Approach.ipynb**: Notebook demonstrating the phonetic-based name matching approach using the Double Metaphone algorithm.
+- **Rule_Based_Name_Matching.ipynb**: Implementation of the proposed rule-based name matching algorithm described in the paper.
+- **phonetic_dataset.csv**: Synthetic dataset containing phonetically similar name variations, used for evaluation.
+- **typos_dataset.csv**: Synthetic dataset containing typographical errors in names, used for evaluation.
